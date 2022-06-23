@@ -15,3 +15,9 @@ const dc="pushin to branch again"
 
 const fv="sai revanrh"
 const fb="revanth NSRN"
+
+
+
+
+const x=60
+const e=40
